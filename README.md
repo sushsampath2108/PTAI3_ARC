@@ -1,4 +1,4 @@
-The Abstraction and Reasoning Corpus Assignment (ARC)
+The Abstraction and Reasoning Corpus (ARC) Assignment 
 
 This repository contains four patterns taken from ARC, whose logic has been written in python language to produce its relative output
 
